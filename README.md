@@ -27,5 +27,6 @@ pip install -r requirements.txt
 ```
 3. Open and execute ```.ipynb``` file
 
+<br>
 If you encounter any issues or any improvements in the project code, please don't hesitate to reach out to me. You can either open an issue on this GitHub repository or contact me directly. Your feedback and contributions are always welcome and appreciated!
 
